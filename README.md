@@ -10,6 +10,7 @@
 - **Laboratorio:** Construcción segura de una aplicación Python con pip (Laboratorio 1)  
 - **Docente:** ANIBAL JAVIER GUILLEN VASQUEZ  
 - **Universidad:** Universidad Nacional de Ingeniería (UNI)
+- **Participantes**: `Yazid Elio Fernández Dueñas` (20224085D) y `Franz Joe Inga Champi` (20231302G)
 ## 🚀 Características
 
 * **Análisis Web:** Extrae el título, conteo de palabras, cantidad de caracteres y la fecha/hora exacta del análisis.
